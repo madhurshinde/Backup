@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="zerodaloginBY.login_byPOM"/>
+      <class name="Testing_homepage.Depend_keyword"/>
+      <class name="Testing_homepage.Test_Ng_Annotations"/>
+      <class name="Practices_only.login_assersionTest"/>
+      <class name="Testing_homepage.Zeroda_Test_buy_Sell"/>
+      <class name="Practices_only.login_assersion"/>
+      <class name="Testing_homepage.Keyword_Of_TestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

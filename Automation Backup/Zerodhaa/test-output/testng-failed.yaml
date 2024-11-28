@@ -1,0 +1,10 @@
+name: Failed suite [Regression]
+configFailurePolicy: skip
+tests:
+  - name: Test(failed)
+  classes:
+    - name: Testing.Validation_Login_Test
+      includedMethods:
+        - name: correct
+        - name: Call
+

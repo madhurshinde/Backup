@@ -1,0 +1,14 @@
+name: LOGIN
+configFailurePolicy: skip
+tests:
+  - name: Test
+  parameters: { file: argument change }
+  classes:
+    - name: Testing_homepage.Test_Ng_Annotations
+      includedMethods:
+        - name: Login_withoutwrong
+      excludedMethods:
+        - Login_withoutwrong
+    - Testing_homepage.Zeroda_Test_buy_Sell
+    - zerodaloginBY.login_byPOM
+
