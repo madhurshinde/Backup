@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-03T18:21:53 IST" name="Default suite" finished-at="2024-12-03T18:21:53 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2024-12-03T18:21:53 IST" name="Default test" finished-at="2024-12-03T18:21:53 IST" duration-ms="86">
+      <class name="logical_Program_IMP.string_sample_program">
+        <test-method signature="printEachWord()[pri:0, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="printEachWord" finished-at="2024-12-03T18:21:53 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printEachWord -->
+        <test-method signature="upperCaseLetter()[pri:1, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="upperCaseLetter" finished-at="2024-12-03T18:21:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upperCaseLetter -->
+        <test-method signature="lowerCaseLetter()[pri:2, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="lowerCaseLetter" finished-at="2024-12-03T18:21:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowerCaseLetter -->
+        <test-method signature="printChracterAndDigit()[pri:3, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="printChracterAndDigit" finished-at="2024-12-03T18:21:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printChracterAndDigit -->
+        <test-method signature="stringWithoutWhiteSpace()[pri:4, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="stringWithoutWhiteSpace" finished-at="2024-12-03T18:21:53 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringWithoutWhiteSpace -->
+        <test-method signature="removeWhiteSpace()[pri:5, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="removeWhiteSpace" finished-at="2024-12-03T18:21:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeWhiteSpace -->
+        <test-method signature="allSeprate()[pri:6, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="allSeprate" finished-at="2024-12-03T18:21:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allSeprate -->
+        <test-method signature="uppercaseAndLowercase()[pri:7, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="uppercaseAndLowercase" finished-at="2024-12-03T18:21:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uppercaseAndLowercase -->
+        <test-method signature="eachFirstLetterUppercase()[pri:8, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="eachFirstLetterUppercase" finished-at="2024-12-03T18:21:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eachFirstLetterUppercase -->
+        <test-method signature="eachFirstLetterLowercase()[pri:9, instance:logical_Program_IMP.string_sample_program@1e6a3214]" started-at="2024-12-03T18:21:53 IST" name="eachFirstLetterLowercase" finished-at="2024-12-03T18:21:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eachFirstLetterLowercase -->
+      </class> <!-- logical_Program_IMP.string_sample_program -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
